@@ -5,3 +5,7 @@ I created a PDF containing some important notes and a Kali Linux cheat-sheet con
 TASK-2:-
 Scanning networks on metasploitable2 with nmap and detect version, OS, TCP & UDP.
 Set-Up Nessus Essential and Analysis Vulnerability (Critical,High,Medium,Low).
+
+TASK-3:-
+Inject SQL command and bypass security of DVWA, perform task also on XSS(stored), File includion Attack.
+config Headers file, Intercept & modify login requests by Burp-Suite tool.
