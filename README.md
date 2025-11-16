@@ -13,3 +13,8 @@ config Headers file, Intercept & modify login requests by Burp-Suite tool.
 TASK-4:-
 Exploit with Metasploit, malware analysis, password attack using Hydra, and John the Ripper.
 Social Engineering via CamPhish.
+
+TASK-5:-
+Scanning Network with Nmap, Zenmap and detecting service or version, perform exploite on them.
+find vulnerability using nessus(High, Medium, Low levels)...
+Aware with social Engineering, how to get location via using CamPhish.
